@@ -13,7 +13,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
-public class log extends Setup {
+public class Flights extends Setup {
 
 
 	@Test
